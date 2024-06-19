@@ -1,6 +1,6 @@
  ## 👋 &nbsp;Hello, There!
 
-Underrad Student at SRMIST
+Undergrad Student at SRMIST
 
 ### 🛠 &nbsp;Tech Stack
 
